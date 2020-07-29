@@ -1,13 +1,13 @@
 [![Meu Telegram](https://img.shields.io/badge/Meu-Telegram-red)](https://t.me/k4k4rot0)
-![GitHub repo size](https://img.shields.io/github/repo-size/k4k4rot0/Dark_Squares?label=Tamanho)
-![GitHub contributors](https://img.shields.io/github/contributors/k4k4rot0/login?color=yellow&label=contribuidores)
-![GitHub](https://img.shields.io/github/license/k4k4rot0/Dark_Squares?label=Licença)
+![GitHub repo size](https://img.shields.io/github/repo-size/k4k4rot0/Dark_Orange?label=Tamanho)
+![GitHub contributors](https://img.shields.io/github/contributors/k4k4rot0/Dark_Orange)
+![GitHub](https://img.shields.io/github/license/k4k4rot0/Dark_Orange?label=Licen%C3%A7a)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 # Instalação e configuração! 
 
 ```
-git clone https://github.com/k4k4rot0/Dark_Squares.git
+git clone https://github.com/k4k4rot0/Dark_Orange.git
 ```
 
 **Veja se tem o diretório themas** 
@@ -37,7 +37,7 @@ sudo nano /etc/default/grub
 **e adicione:** 
 
 ```
-GRUB_THEME = "/usr/share/grub/themes/dark_squares/theme.txt"
+GRUB_THEME = "/usr/share/grub/themes/dark_orange/theme.txt"
 ```
 
 **Atualize o GRUB:** 
