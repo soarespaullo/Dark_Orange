@@ -37,7 +37,7 @@ sudo nano /etc/default/grub
 **e adicione:** 
 
 ```
-GRUB_THEME = "/usr/share/grub/themes/dark_orange/theme.txt"
+GRUB_THEME="/usr/share/grub/themes/dark_orange/theme.txt"
 ```
 
 **Atualize o GRUB:** 
