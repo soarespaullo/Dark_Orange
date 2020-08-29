@@ -59,11 +59,11 @@ Abra a pasta do tema e substitua o arquivo “background.png” para o que você
 
 ### Screenshot 
 
-![screenshot](/imagens/logo-01.png)
+![screenshot](/imagens/logo-01.jpg)
 
-![screenshot](/imagens/logo-02.png)
+![screenshot](/imagens/logo-02.jpg)
 
-![screenshot](/imagens/logo-03.png)
+![screenshot](/imagens/logo-03.jpg)
 
 _Sinta-se livre para copiar o tema e fazer sua própria alteração!;-)_
 
