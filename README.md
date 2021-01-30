@@ -28,7 +28,7 @@ ls /usr/share/grub/themes
 sudo mkdir /usr/share/grub/themes
 ```
 
-** copie o tema**
+**copie o tema**
 
 ```
 sudo cp -r dark_orange/ /usr/share/grub/themes
