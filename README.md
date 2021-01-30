@@ -10,22 +10,28 @@
 git clone https://github.com/k4k4rot0/Dark_Orange.git
 ```
 
-**Veja se tem o diretório themas** 
+**Entre na pasta do tema baixado**
+
+```
+cd Dark_Orange
+```
+
+**Veja se tem o diretório themes** 
 
 ```
 ls /usr/share/grub/themes
 ```
 
-**Caso não tenha crie**
+**Caso não tenha, crie**
 
 ```
 sudo mkdir /usr/share/grub/themes
 ```
 
-**Vamos copicar o tema**
+** copie o tema**
 
 ```
-sudo cp -r dark_squares/ /usr/share/grub/themes
+sudo cp -r dark_orange/ /usr/share/grub/themes
 ```
 
 **Abra o arquivo:** 
@@ -34,7 +40,7 @@ sudo cp -r dark_squares/ /usr/share/grub/themes
 sudo nano /etc/default/grub 
 ```
 
-**e adicione:** 
+**descomente e adicione:** 
 
 ```
 GRUB_THEME="/usr/share/grub/themes/dark_orange/theme.txt"
