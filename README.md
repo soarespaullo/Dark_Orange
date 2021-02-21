@@ -37,10 +37,10 @@ sudo cp -r dark_orange/ /usr/share/grub/themes
 **Abra o arquivo:** 
 
 ```
-sudo nano /etc/default/grub 
+sudo vim /etc/default/grub 
 ```
 
-**descomente e adicione:** 
+**Descomente e adicione:** 
 
 ```
 GRUB_THEME="/usr/share/grub/themes/dark_orange/theme.txt"
