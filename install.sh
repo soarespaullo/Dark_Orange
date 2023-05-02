@@ -38,7 +38,7 @@ prompt () {
 }
 
 # Mensagem de boas-vindas.
-prompt -s "\n\t*************************\n\t*  ${THEME_NAME} - Tema GRUB-2  *\n\t*************************"
+prompt -s "\n\t*******************************\n\t*  ${THEME_NAME} - Tema GRUB-2  *\n\t*******************************"
 
 # Verifique a disponibilidade do comando.
 function has_command() {
