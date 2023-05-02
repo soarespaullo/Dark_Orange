@@ -21,7 +21,7 @@ b_CRER=" \033[1;31m"                                # Cor de erro em negrito.
 b_CWAR=" \033[1;33m"                                # Cor de aviso em negrito.
 
 # Tipo de sinalizador e cores de mensagem de exibição.
-incitar () {
+prompt () {
   case ${1} in
     "-s"|"--success")
       echo -e "${b_CGSC}${@/-s/}${CDEF}";;          # Imprimir mensagem de sucesso.
@@ -93,7 +93,7 @@ else
   prompt -e "\n [ Erro! ] -> Execute-me como ROOT "
 
 # Execução persistente do script como ROOT.
-  read -p "[ Confiável ] especifique a senha de ROOT : " -t${MAX_DELAY} -s
+  read -p "[ Confiável ] Especifique a senha de ROOT : " -t${MAX_DELAY} -s
   [[ -n "$REPLY" ]] && {
     sudo -S <<< $REPLY $0
   } || {
