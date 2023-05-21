@@ -74,3 +74,11 @@ Abra a pasta do tema e substitua o arquivo “background.png” para o que você
 
 _Sinta-se livre para copiar o tema e fazer sua própria alteração!;-)_
 
+#### Documentação
+
+[Manual GNU GRUB](https://www.gnu.org/software/grub/manual/grub/grub.html#Boot-Menu)
+
+[Tutorial do tema GRUB-2](http://wiki.rosalab.ru/en/index.php/Grub2_theme_tutorial)
+
+[Referência do tema GRUB-2](http://wiki.rosalab.ru/en/index.php/Grub2_theme_/_reference)
+
