@@ -7,7 +7,7 @@
 # Instalação e configuração! 
 
 ```
-git clone https://github.com/k4k4rot0/Dark_Orange.git
+git clone https://github.com/soarespaullo/Dark_Orange.git
 ```
 
 **Entre na pasta do tema baixado**
